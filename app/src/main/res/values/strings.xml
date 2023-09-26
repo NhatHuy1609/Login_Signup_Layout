@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Login_Layout</string>
+    <string name="signIn_button">Sign in</string>
+</resources>
